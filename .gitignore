@@ -1,0 +1,8 @@
+# Vitest reports and artifacts
+.vitest/
+node_modules/
+.DS_Store
+.env
+.claude/settings.local.json
+coverage/
+dist/

@@ -1,0 +1,287 @@
+[
+    {
+    "name": "Winter Park",
+    "nearestAirportName": "Denver International Airport",
+    "nearestAirportCode": "DEN",
+    "distanceFromAirportInMi": 90,
+    "driveTimeInHrs": 2,
+    "liftTicketPriceInDollars": {
+        "monday": 171,
+        "tuesday": 171,
+        "wednesday": 171,
+        "thursday": 89,
+        "friday": 178,
+        "saturday": 189,
+        "sunday": 185
+    },
+    "verticalDropInFt": 3060,
+    "averageSnowfallInInches": 300,
+    "skiableTerrainInAcres": 3000
+},
+  {
+    "name": "Steamboat Ski Resort",
+    "nearestAirportName": "Yampa Valley Regional Airport",
+    "nearestAirportCode": "HDN",
+    "distanceFromAirportInMi": 28,
+    "driveTimeInHrs": 0.75,
+    "liftTicketPriceInDollars": {
+      "monday": 185,
+      "tuesday": 185,
+      "wednesday": 185,
+      "thursday": 185,
+      "friday": 215,
+      "saturday": 235,
+      "sunday": 225
+    },
+    "verticalDropInFt": 3668,
+    "averageSnowfallInInches": 314,
+    "skiableTerrainInAcres": 3741
+  },
+  {
+    "name": "Copper Mountain",
+    "nearestAirportName": "Denver International Airport",
+    "nearestAirportCode": "DEN",
+    "distanceFromAirportInMi": 100,
+    "driveTimeInHrs": 1.75,
+    "liftTicketPriceInDollars": {
+      "monday": 149,
+      "tuesday": 149,
+      "wednesday": 149,
+      "thursday": 149,
+      "friday": 169,
+      "saturday": 189,
+      "sunday": 179
+    },
+    "verticalDropInFt": 2738,
+    "averageSnowfallInInches": 305,
+    "skiableTerrainInAcres": 2507
+  },
+  {
+    "name": "Vail Ski Resort",
+    "nearestAirportName": "Eagle County Regional Airport",
+    "nearestAirportCode": "EGE",
+    "distanceFromAirportInMi": 35,
+    "driveTimeInHrs": 0.65,
+    "liftTicketPriceInDollars": {
+      "monday": 239,
+      "tuesday": 239,
+      "wednesday": 239,
+      "thursday": 239,
+      "friday": 269,
+      "saturday": 289,
+      "sunday": 279
+    },
+    "verticalDropInFt": 3450,
+    "averageSnowfallInInches": 354,
+    "skiableTerrainInAcres": 5317
+  },
+  {
+    "name": "Breckenridge Ski Resort",
+    "nearestAirportName": "Eagle County Regional Airport",
+    "nearestAirportCode": "EGE",
+    "distanceFromAirportInMi": 71,
+    "driveTimeInHrs": 1.5,
+    "liftTicketPriceInDollars": {
+      "monday": 209,
+      "tuesday": 209,
+      "wednesday": 209,
+      "thursday": 209,
+      "friday": 239,
+      "saturday": 259,
+      "sunday": 249
+    },
+    "verticalDropInFt": 3398,
+    "averageSnowfallInInches": 355,
+    "skiableTerrainInAcres": 2908
+  },
+  {
+    "name": "Arapahoe Basin",
+    "nearestAirportName": "Denver International Airport",
+    "nearestAirportCode": "DEN",
+    "distanceFromAirportInMi": 88,
+    "driveTimeInHrs": 1.5,
+    "liftTicketPriceInDollars": {
+      "monday": 109,
+      "tuesday": 99,
+      "wednesday": 99,
+      "thursday": 109,
+      "friday": 139,
+      "saturday": 159,
+      "sunday": 149
+    },
+    "verticalDropInFt": 2530,
+    "averageSnowfallInInches": 350,
+    "skiableTerrainInAcres": 1428
+  },
+  {
+    "name": "Snowbird",
+    "nearestAirportName": "Salt Lake City International Airport",
+    "nearestAirportCode": "SLC",
+    "distanceFromAirportInMi": 29,
+    "driveTimeInHrs": 0.75,
+    "liftTicketPriceInDollars": {
+      "monday": 175,
+      "tuesday": 175,
+      "wednesday": 175,
+      "thursday": 175,
+      "friday": 195,
+      "saturday": 215,
+      "sunday": 205
+    },
+    "verticalDropInFt": 3240,
+    "averageSnowfallInInches": 500,
+    "skiableTerrainInAcres": 2500
+  },
+  {
+    "name": "Alta Ski Area",
+    "nearestAirportName": "Salt Lake City International Airport",
+    "nearestAirportCode": "SLC",
+    "distanceFromAirportInMi": 32,
+    "driveTimeInHrs": 0.8,
+    "liftTicketPriceInDollars": {
+      "monday": 160,
+      "tuesday": 160,
+      "wednesday": 160,
+      "thursday": 160,
+      "friday": 175,
+      "saturday": 189,
+      "sunday": 185
+    },
+    "verticalDropInFt": 2538,
+    "averageSnowfallInInches": 538,
+    "skiableTerrainInAcres": 2614
+  },
+  {
+    "name": "Park City Mountain",
+    "nearestAirportName": "Salt Lake City International Airport",
+    "nearestAirportCode": "SLC",
+    "distanceFromAirportInMi": 36,
+    "driveTimeInHrs": 0.7,
+    "liftTicketPriceInDollars": {
+      "monday": 229,
+      "tuesday": 229,
+      "wednesday": 229,
+      "thursday": 229,
+      "friday": 259,
+      "saturday": 279,
+      "sunday": 269
+    },
+    "verticalDropInFt": 3226,
+    "averageSnowfallInInches": 355,
+    "skiableTerrainInAcres": 7300
+  },
+  {
+    "name": "Jackson Hole Mountain Resort",
+    "nearestAirportName": "Jackson Hole Airport",
+    "nearestAirportCode": "JAC",
+    "distanceFromAirportInMi": 22,
+    "driveTimeInHrs": 0.6,
+    "liftTicketPriceInDollars": {
+      "monday": 195,
+      "tuesday": 195,
+      "wednesday": 195,
+      "thursday": 195,
+      "friday": 215,
+      "saturday": 245,
+      "sunday": 235
+    },
+    "verticalDropInFt": 4139,
+    "averageSnowfallInInches": 458,
+    "skiableTerrainInAcres": 2500
+  },
+  {
+    "name": "Big Sky Resort",
+    "nearestAirportName": "Bozeman Yellowstone International Airport",
+    "nearestAirportCode": "BZN",
+    "distanceFromAirportInMi": 52,
+    "driveTimeInHrs": 1.25,
+    "liftTicketPriceInDollars": {
+      "monday": 189,
+      "tuesday": 189,
+      "wednesday": 189,
+      "thursday": 189,
+      "friday": 219,
+      "saturday": 239,
+      "sunday": 229
+    },
+    "verticalDropInFt": 4350,
+    "averageSnowfallInInches": 400,
+    "skiableTerrainInAcres": 5850
+  },
+  {
+    "name": "Palisades Tahoe",
+    "nearestAirportName": "Reno-Tahoe International Airport",
+    "nearestAirportCode": "RNO",
+    "distanceFromAirportInMi": 47,
+    "driveTimeInHrs": 1,
+    "liftTicketPriceInDollars": {
+      "monday": 199,
+      "tuesday": 199,
+      "wednesday": 199,
+      "thursday": 199,
+      "friday": 229,
+      "saturday": 259,
+      "sunday": 249
+    },
+    "verticalDropInFt": 2850,
+    "averageSnowfallInInches": 400,
+    "skiableTerrainInAcres": 6000
+  },
+  {
+    "name": "Mammoth Mountain",
+    "nearestAirportName": "Eastern Sierra Regional Airport",
+    "nearestAirportCode": "BIH",
+    "distanceFromAirportInMi": 46,
+    "driveTimeInHrs": 0.8,
+    "liftTicketPriceInDollars": {
+      "monday": 189,
+      "tuesday": 189,
+      "wednesday": 189,
+      "thursday": 189,
+      "friday": 219,
+      "saturday": 249,
+      "sunday": 239
+    },
+    "verticalDropInFt": 3100,
+    "averageSnowfallInInches": 400,
+    "skiableTerrainInAcres": 3500
+  },
+  {
+    "name": "Killington Resort",
+    "nearestAirportName": "Rutland Southern Vermont Regional Airport",
+    "nearestAirportCode": "RUT",
+    "distanceFromAirportInMi": 21,
+    "driveTimeInHrs": 0.5,
+    "liftTicketPriceInDollars": {
+      "monday": 139,
+      "tuesday": 139,
+      "wednesday": 139,
+      "thursday": 139,
+      "friday": 159,
+      "saturday": 185,
+      "sunday": 175
+    },
+    "verticalDropInFt": 3050,
+    "averageSnowfallInInches": 250,
+    "skiableTerrainInAcres": 1509
+  },
+  {
+    "name": "Mount Bachelor",
+    "nearestAirportName": "Redmond Municipal Airport",
+    "nearestAirportCode": "RDM",
+    "distanceFromAirportInMi": 37,
+    "driveTimeInHrs": 0.75,
+    "liftTicketPriceInDollars": {
+      "monday": 139,
+      "tuesday": 139,
+      "wednesday": 139,
+      "thursday": 139,
+      "friday": 159,
+      "saturday": 179,
+      "sunday": 169
+    },
+    "verticalDropInFt": 3365,
+    "averageSnowfallInInches": 462,
+    "skiableTerrainInAcres": 4318
+  }
+]
